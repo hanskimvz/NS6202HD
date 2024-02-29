@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [NS6202_V4.0.PcbDoc]
+   Generated File[Pick Place for NS6202_V4.0.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At ¿ÀÈÄ 1:36:49 On 2020-11-11

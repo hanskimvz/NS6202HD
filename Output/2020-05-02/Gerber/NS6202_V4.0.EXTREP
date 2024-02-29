@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: NS6202_V4.0.GBR   2020-05-02  ¿ÀÈÄ 10:05:17
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top                                     
+.GM1                Assembly Drawing Top                    
+.GBO                Silkscreen Bottom                       
+.GBL                Bottom                                  
+.G2                 GND                                     
+.GM2                Assembly Drawing Bottom                 
+.GBS                Solder Mask Bottom                      
+.GTS                Solder Mask Top                         
+.G1                 VCC                                     
+.GBP                Paste Mask Bottom                       
+.GTP                Paste Mask Top                          
+.GKO                Keep-Out Layer                          
+.GPB                Bottom Pad Master                       
+.GTO                Silkscreen Top                          
+.GPT                Top Pad Master                          
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------

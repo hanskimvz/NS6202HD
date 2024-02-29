@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: NS6202_V2.0.PcbDoc   11/5/2016  1:19:43 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : NS6202_V2.0.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.308mm (12.126mil)      Round          221              838.78 mm (33.02 Inch)
+T2        2.2mm (86.614mil)        Round          4                114.00 mm (4.49 Inch)
+T3        0.8mm (31.496mil)        Round          2         NPTH   2.22 mm (0.09 Inch)
+---------------------------------------------------------------------------
+Totals                                            227              955.00 mm (37.60 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
