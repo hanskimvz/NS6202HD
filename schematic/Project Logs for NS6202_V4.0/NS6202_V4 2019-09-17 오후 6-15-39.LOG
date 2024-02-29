@@ -1,0 +1,12 @@
+Added Component: Designator=MH5(VA-2.2-W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH6(VA-2.2-W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH7(VA-2.2-W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH8(VA-2.2-W)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=MH5-1
+Added Pin To Net: NetName=GND Pin=MH6-1
+Added Pin To Net: NetName=GND Pin=MH7-1
+Added Pin To Net: NetName=GND Pin=MH8-1

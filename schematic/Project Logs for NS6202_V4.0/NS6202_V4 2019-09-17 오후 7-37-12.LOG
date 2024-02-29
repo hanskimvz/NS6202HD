@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=N15229490 Pin=MH1-1
+Removed Pin From Net: NetName=N17016832 Pin=MH2-1
+Added Component: Designator=BC1(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BC4(CS-1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(AXK6F50547)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH4(VA-2.2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=BC1-1
+Added Pin To Net: NetName=+3.3V Pin=BC1-2
+Added Pin To Net: NetName=GND Pin=BC4-1
+Added Pin To Net: NetName=+3.3V Pin=BC4-2
+Added Pin To Net: NetName=VD_RSTN Pin=J1-1
+Added Pin To Net: NetName=+3.3V Pin=J1-2
+Added Pin To Net: NetName=USB_VBUS_EN Pin=J1-3
+Added Pin To Net: NetName=UART1_RXD Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=IR_PWM Pin=J1-7
+Added Pin To Net: NetName=VD_SCK Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=VD_SIMO Pin=J1-10
+Added Pin To Net: NetName=VD_CS Pin=J1-11
+Added Pin To Net: NetName=UART1_TXD Pin=J1-12
+Added Pin To Net: NetName=VD_SOMI Pin=J1-13
+Added Pin To Net: NetName=USB_DP Pin=J1-14
+Added Pin To Net: NetName=USB_DN Pin=J1-15
+Added Pin To Net: NetName=USB_VBUS Pin=J1-16
+Added Pin To Net: NetName=GND Pin=J1-17
+Added Pin To Net: NetName=+3.3V Pin=J1-22
+Added Pin To Net: NetName=I2C_SCL Pin=J1-24
+Added Pin To Net: NetName=I2C_SDA Pin=J1-26
+Added Pin To Net: NetName=GND Pin=J1-27
+Added Pin To Net: NetName=+3.3V Pin=J1-28
+Added Pin To Net: NetName=GND Pin=J1-29
+Added Pin To Net: NetName=+3.3V Pin=J1-30
+Added Pin To Net: NetName=AOUT Pin=J1-31
+Added Pin To Net: NetName=FD_SW Pin=J1-32
+Added Pin To Net: NetName=GND Pin=J1-33
+Added Pin To Net: NetName=UART0_RXD Pin=J1-34
+Added Pin To Net: NetName=SD0_INS Pin=J1-35
+Added Pin To Net: NetName=UART0_TXD Pin=J1-36
+Added Pin To Net: NetName=DAC_OUT Pin=J1-37
+Added Pin To Net: NetName=AIN Pin=J1-39
+Added Pin To Net: NetName=GND Pin=J1-41
+Added Pin To Net: NetName=USB_VBUS_OCN Pin=J1-42
+Added Pin To Net: NetName=GND Pin=J1-43
+Added Pin To Net: NetName=+3.3V Pin=J1-44
+Added Pin To Net: NetName=LED_MLINK Pin=J1-45
+Added Pin To Net: NetName=EPHY_TRCT Pin=J1-46
+Added Pin To Net: NetName=TPTX- Pin=J1-47
+Added Pin To Net: NetName=TPRX+ Pin=J1-48
+Added Pin To Net: NetName=TPTX+ Pin=J1-49
+Added Pin To Net: NetName=TPRX- Pin=J1-50
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Pin To Net: NetName=GND Pin=MH4-1

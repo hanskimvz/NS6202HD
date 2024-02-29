@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=FD_SW Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=SD0_CMD Pin=J10-1
+Removed Pin From Net: NetName=SD0_DATA3 Pin=J10-2
+Removed Pin From Net: NetName=SD0_DATA0 Pin=J10-3
+Removed Pin From Net: NetName=SD0_DATA1 Pin=J10-4
+Removed Pin From Net: NetName=SD0_DATA2 Pin=J10-5
+Removed Pin From Net: NetName=+3.3V Pin=J10-6
+Removed Pin From Net: NetName=+3.3V Pin=J10-7
+Removed Pin From Net: NetName=SD0_CLK Pin=J10-8
+Removed Pin From Net: NetName=GND Pin=J10-9
+Removed Pin From Net: NetName=GND Pin=J10-10
+Removed Pin From Net: NetName=SD0_INS Pin=J10-11
+Removed Pin From Net: NetName=FD_SW Pin=J10-12
+Removed Pin From Net: NetName=GND Pin=J10-M1
+Removed Pin From Net: NetName=GND Pin=J10-M2
+Removed Pin From Net: NetName=GND Pin=J10-M3
+Removed Pin From Net: NetName=GND Pin=J10-M4
+Added Component: Designator=BC38(CS-2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=FB5(LS-1608)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J7(CON_u-SD-RU)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RP6(RP-4_1005)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RP7(RP-4_1005)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=BC38-1
+Added Pin To Net: NetName=+3.3V Pin=FB5-1
+Added Pin To Net: NetName=SD0_DATA2 Pin=J7-1
+Added Pin To Net: NetName=SD0_DATA3 Pin=J7-2
+Added Pin To Net: NetName=SD0_CMD Pin=J7-3
+Added Pin To Net: NetName=SD0_CLK Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-6
+Added Pin To Net: NetName=SD0_DATA0 Pin=J7-7
+Added Pin To Net: NetName=SD0_DATA1 Pin=J7-8
+Added Pin To Net: NetName=GND Pin=J7-9
+Added Pin To Net: NetName=GND Pin=J7-10
+Added Pin To Net: NetName=SD0_INS Pin=J7-CD
+Added Pin To Net: NetName=SD0_CLK Pin=RP6-1
+Added Pin To Net: NetName=+3.3V Pin=RP6-2
+Added Pin To Net: NetName=SD0_DATA0 Pin=RP6-3
+Added Pin To Net: NetName=+3.3V Pin=RP6-4
+Added Pin To Net: NetName=SD0_DATA1 Pin=RP6-5
+Added Pin To Net: NetName=+3.3V Pin=RP6-6
+Added Pin To Net: NetName=SD0_INS Pin=RP6-7
+Added Pin To Net: NetName=+3.3V Pin=RP6-8
+Added Pin To Net: NetName=+3.3V Pin=RP7-2
+Added Pin To Net: NetName=SD0_DATA3 Pin=RP7-3
+Added Pin To Net: NetName=+3.3V Pin=RP7-4
+Added Pin To Net: NetName=SD0_CMD Pin=RP7-5
+Added Pin To Net: NetName=+3.3V Pin=RP7-6
+Added Pin To Net: NetName=SD0_DATA2 Pin=RP7-7
+Added Pin To Net: NetName=+3.3V Pin=RP7-8
+Added Pin To Net: NetName=N17379738 Pin=BC38-2
+Added Pin To Net: NetName=N17379738 Pin=FB5-2
+Added Pin To Net: NetName=N17379738 Pin=J7-4
+Added Net: Name=N17379738

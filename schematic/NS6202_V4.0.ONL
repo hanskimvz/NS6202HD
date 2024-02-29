@@ -1,0 +1,3001 @@
+(PCB NS6202_V4.0
+ (description
+  (timeStamp "2019 09 26 16 11 09")
+  (program "CAPTURE.EXE" (Version "16.3.0.p002"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "POWER")
+  (date "Friday, September 27, 2019")
+  (document "NS6202HD")
+  (revision "2.0")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component "HA-003_0"
+   (place T1
+    (property 
+     ("PCB Footprint" TRC41604NL)
+     (timestamp 0108AE8C)
+     ("Source Package" "HA-003_0")
+     (Value TRC41604NL))))
+  (component CON10_2
+   (place J12
+    (property 
+     ("PCB Footprint" "12505WS-8P")
+     (timestamp 01094247)
+     ("Source Package" CON10_2)
+     (Value "12505WS-08"))))
+  (component MP1482
+   (place U5
+    (property 
+     ("PCB Footprint" "SOIC-8")
+     (timestamp 01085C1C)
+     ("Source Package" MP1482)
+     (Value MP1482))))
+  (component MAX485
+   (place U3
+    (property 
+     (Family IC)
+     ("PCB Footprint" "SOIC-8")
+     (timestamp 01087F9E)
+     ("Source Package" MAX485)
+     (Value MAX3485ESA))))
+  (component "M HOLE PLATED_4"
+   (place MH1
+    (property 
+     ("PCB Footprint" "VA-2.2")
+     (timestamp 0106AC83)
+     ("Source Package" "M HOLE PLATED_4")
+     (Value 4.04pi)
+     (Description "Machenical Hole")))
+   (place MH2
+    (property 
+     ("PCB Footprint" "VA-2.2")
+     (timestamp 0106AFAE)
+     ("Source Package" "M HOLE PLATED_4")
+     (Value 4.04pi)
+     (Description "Machenical Hole")))
+   (place MH3
+    (property 
+     ("PCB Footprint" "VA-2.2")
+     (timestamp 0106AFB4)
+     ("Source Package" "M HOLE PLATED_4")
+     (Value 4.04pi)
+     (Description "Machenical Hole")))
+   (place MH4
+    (property 
+     ("PCB Footprint" "VA-2.2")
+     (timestamp 0106AFBA)
+     ("Source Package" "M HOLE PLATED_4")
+     (Value 4.04pi)
+     (Description "Machenical Hole")))
+   (place MH5
+    (property 
+     ("PCB Footprint" "VA-2.2-W")
+     (timestamp 01092BC9)
+     ("Source Package" "M HOLE PLATED_4")
+     (Value 4.04pi)
+     (Description "Machenical Hole")))
+   (place MH6
+    (property 
+     ("PCB Footprint" "VA-2.2-W")
+     (timestamp 01092BCF)
+     ("Source Package" "M HOLE PLATED_4")
+     (Value 4.04pi)
+     (Description "Machenical Hole")))
+   (place MH7
+    (property 
+     ("PCB Footprint" "VA-2.2-W")
+     (timestamp 01092BD5)
+     ("Source Package" "M HOLE PLATED_4")
+     (Value 4.04pi)
+     (Description "Machenical Hole")))
+   (place MH8
+    (property 
+     ("PCB Footprint" "VA-2.2-W")
+     (timestamp 01092BDB)
+     ("Source Package" "M HOLE PLATED_4")
+     (Value 4.04pi)
+     (Description "Machenical Hole")))
+   (place MH9
+    (property 
+     ("PCB Footprint" "VA-2.2")
+     (timestamp 01092FE0)
+     ("Source Package" "M HOLE PLATED_4")
+     (Value 4.04pi)
+     (Description "Machenical Hole")))
+   (place MH10
+    (property 
+     ("PCB Footprint" "VA-2.2")
+     (timestamp 01092FE6)
+     ("Source Package" "M HOLE PLATED_4")
+     (Value 4.04pi)
+     (Description "Machenical Hole")))
+   (place MH11
+    (property 
+     ("PCB Footprint" "VA-2.2")
+     (timestamp 01092FEC)
+     ("Source Package" "M HOLE PLATED_4")
+     (Value 4.04pi)
+     (Description "Machenical Hole")))
+   (place MH12
+    (property 
+     ("PCB Footprint" "VA-2.2")
+     (timestamp 01092FF2)
+     ("Source Package" "M HOLE PLATED_4")
+     (Value 4.04pi)
+     (Description "Machenical Hole"))))
+  (component "CON 40P_1"
+   (place J4
+    (property 
+     ("PCB Footprint" "05005HS-40P")
+     (timestamp 0108077C)
+     ("Source Package" "CON 40P_1")
+     (Value "05005HS-40"))))
+  (component R_2
+   (place R3
+    (property 
+     (Size 1608)
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 0108B48A)
+     ("Source Package" R_2)
+     (Value 10K)
+     (ERP "M09-06-0007")))
+   (place R4
+    (property 
+     (Size 1608)
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 0108B498)
+     ("Source Package" R_2)
+     (Value 10K)
+     (ERP "M09-06-0007")))
+   (place R5
+    (property 
+     (Size 1608)
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 0108B4F4)
+     ("Source Package" R_2)
+     (Value 1K)
+     (ERP "M09-06-0007")))
+   (place R6
+    (property 
+     (Size 1608)
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 0108B4FD)
+     ("Source Package" R_2)
+     (Value 1K)
+     (ERP "M09-06-0007")))
+   (place R7
+    (property 
+     (Size 1608)
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 0108D031)
+     ("Source Package" R_2)
+     (Value 10K)
+     (ERP "M09-06-0007")))
+   (place R8
+    (property 
+     (Size 1608)
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 0108D0B0)
+     ("Source Package" R_2)
+     (Value 10K)
+     (ERP "M09-06-0007")))
+   (place R16
+    (property 
+     (Size 1608)
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 0108D256)
+     ("Source Package" R_2)
+     (Value 10K)
+     (ERP "M09-06-0007")))
+   (place R17
+    (property 
+     (Size 1608)
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 0108D269)
+     ("Source Package" R_2)
+     (Value 10K)
+     (ERP "M09-06-0007"))))
+  (component "CAP NP"
+   (place BC1
+    (property 
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1005")
+     (timestamp 01085D2D)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 0.1uF)
+     ("ERP NAME" "0.1uF-1005")
+     (ERP "M10-06-0001")))
+   (place BC2
+    (property 
+     (Size 1608)
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1608")
+     (timestamp 0108D38C)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 0.1uF)))
+   (place BC4
+    (property 
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1005")
+     (timestamp 01087FAE)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 0.1uF)
+     ("ERP NAME" "0.1uF-1005")
+     (ERP "M10-06-0001")))
+   (place BC38
+    (property 
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-2012")
+     (timestamp 01093210)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 22uF)))
+   (place C23
+    (property 
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1005")
+     (timestamp 01093F1C)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 0.1uF)))
+   (place C24
+    (property 
+     (Size 1608)
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1608")
+     (timestamp 0108AE38)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 0.1uF)))
+   (place C25
+    (property 
+     (Size 1608)
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1608")
+     (timestamp 0108AE41)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 0.1uF)))
+   (place C27
+    (property 
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1608")
+     (timestamp 0109400C)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 2.2uF)))
+   (place C28
+    (property 
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1005")
+     (timestamp 01094015)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 0.1uF)))
+   (place C29
+    (property 
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1005")
+     (timestamp 01093EEB)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 10nF)))
+   (place C1
+    (property 
+     (Family CAPACITOR)
+     (NOTE "NI, RTL8201BL -> RTL8201CP 函版矫 角厘")
+     ("PCB Footprint" "CS-1608")
+     (timestamp 01032178)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 0.1uF)
+     ("ERP NAME" "0.1uF-1005")
+     (ERP "M10-06-0001")))
+   (place C2
+    (property 
+     (Size 1608)
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1005")
+     (timestamp 010935F8)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 1nF/NI)))
+   (place C6
+    (property 
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1005")
+     (timestamp 01087FC0)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 2.2nF)
+     ("ERP NAME" "0.1uF-1005")
+     (ERP "M10-06-0001")))
+   (place C7
+    (property 
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1005")
+     (timestamp 01087FD2)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 2.2nF)
+     (ERP "M10-06-0001")
+     ("ERP NAME" "0.1uF-1005")))
+   (place C30
+    (property 
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1005")
+     (timestamp 0109401E)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 10nF)))
+   (place C31
+    (property 
+     (Size 1608)
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1005")
+     (timestamp 01085C59)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 10nF)))
+   (place C32
+    (property 
+     (Size 1608)
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-2012")
+     (timestamp 01085BAB)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value "22uF-2012-6.3V")))
+   (place C33
+    (property 
+     (Size 1608)
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-2012")
+     (timestamp 01085BDA)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value "22uF-2012-6.3V")))
+   (place C34
+    (property 
+     (Size 1608)
+     (Family CAPACITOR)
+     ("PCB Footprint" C3216)
+     (timestamp 01085BC2)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value "4.7uF-25V")))
+   (place C35
+    (property 
+     (Size 1608)
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1005")
+     (timestamp 01085C0B)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 0.1uF)))
+   (place C36
+    (property 
+     (Size 1608)
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1005")
+     (timestamp 01085C6F)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 0.1uF)))
+   (place C37
+    (property 
+     (Size 1608)
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1005")
+     (timestamp 01085BCE)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 3.3nF)))
+   (place C38
+    (property 
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1608")
+     (timestamp 01094029)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 2.2uF)))
+   (place C39
+    (property 
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-2012")
+     (timestamp 0109546E)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 22uF))))
+  (component "CON 6P_0"
+   (place J5
+    (property 
+     (Family CONNECTOR)
+     ("PCB Footprint" "12505WS-6P")
+     (timestamp 01080A16)
+     ("Source Package" "CON 6P_0")
+     (Value "12505WS-06"))))
+  (component DRV8834PWP
+   (place U4
+    (property 
+     ("PCB Footprint" "TSSOP-24-PAD")
+     (timestamp 01093F3C)
+     ("Source Package" DRV8834PWP)
+     (Value DRV8834PWP)))
+   (place U6
+    (property 
+     ("PCB Footprint" "TSSOP-24-PAD")
+     (timestamp 01093F6E)
+     ("Source Package" DRV8834PWP)
+     (Value DRV8834PWP))))
+  (component "MMBT3906/SOT-23"
+   (place Q3
+    (property 
+     (Family Transistor)
+     ("PCB Footprint" "SOT-23")
+     (timestamp 01085D39)
+     ("Source Package" "MMBT3906/SOT-23")
+     (Value MMBT3906))))
+  (component PC817
+   (place PC1
+    (property 
+     (Family IC)
+     ("PCB Footprint" PC817)
+     (timestamp 01085D6C)
+     ("Source Package" PC817)
+     (Value PC817))))
+  (component "R-PACK"
+   (place RP6
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RP-4_1005")
+     (timestamp 010931AA)
+     ("Source Package" "R-PACK")
+     (Value 10K)))
+   (place RP7
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RP-4_1005")
+     (timestamp 010931D6)
+     ("Source Package" "R-PACK")
+     (Value 10K))))
+  (component DIODE_0
+   (place D1
+    (property 
+     ("PCB Footprint" "SOD-106")
+     (timestamp 0109345E)
+     ("Source Package" DIODE_0)
+     (Value "RB051L-40"))))
+  (component "CON 50P DUAL"
+   (place J1
+    (property 
+     ("PCB Footprint" AXK6F50547)
+     (timestamp 01083659)
+     ("Source Package" "CON 50P DUAL")
+     (Value AXK6F30547)))
+   (place J2
+    (property 
+     ("PCB Footprint" AXK6F50547)
+     (timestamp 0107DF61)
+     ("Source Package" "CON 50P DUAL")
+     (Value AXK6F50347))))
+  (component CON3_1
+   (place J11
+    (property 
+     ("PCB Footprint" "12505WS-4P")
+     (timestamp 0108CB3A)
+     ("Source Package" CON3_1)
+     (Value "12505WS-4P//NI")
+     (ERP "M23-01-0012")
+     ("ERP NAME" "12505WR-03"))))
+  (component INDUCTOR
+   (place FB5
+    (property 
+     (Family INDUCTOR)
+     ("PCB Footprint" "LS-1608")
+     (timestamp 010931B3)
+     ("Source Package" INDUCTOR)
+     (Value 60)
+     (ERP "M12-02-0006")
+     ("ERP NAME" "BLM21PG221SN1D-220 BEAD")))
+   (place FB6
+    (property 
+     (Family INDUCTOR)
+     ("PCB Footprint" "LS-1608")
+     (timestamp 010953DB)
+     ("Source Package" INDUCTOR)
+     (Value 60)
+     (ERP "M12-02-0006")
+     ("ERP NAME" "BLM21PG221SN1D-220 BEAD"))))
+  (component DIODE_1
+   (place D2
+    (property 
+     (Family DIODE)
+     ("PCB Footprint" "SOD-523")
+     (timestamp 01085D9D)
+     ("Source Package" DIODE_1)
+     (Value 1N4148))))
+  (component CON3_3
+   (place J9
+    (property 
+     ("PCB Footprint" "12505WS-6P")
+     (timestamp 0108C207)
+     ("Source Package" CON3_3)
+     (Value "12505WS-06")
+     (ERP "M23-01-0012")
+     ("ERP NAME" "12505WR-03"))))
+  (component "SW PB_0"
+   (place SW1
+    (property 
+     (Family SWITCH)
+     ("PCB Footprint" "SWS-CTT-1131U")
+     (timestamp 010935E5)
+     ("Source Package" "SW PB_0")
+     (Value "SW PB")
+     (Label <Label>))))
+  (component INDUCTOR_CORE
+   (place L1
+    (property 
+     (Family INDUCTOR)
+     ("PCB Footprint" CDRH5D18NP)
+     (timestamp 01085C4D)
+     ("Source Package" INDUCTOR_CORE)
+     (Value "CDRH5D18NP-100NC-10uH"))))
+  (component TP
+   (place TP1
+    (property 
+     (Size Hole)
+     (Family TEST_POINT)
+     ("PCB Footprint" TP)
+     (timestamp 01091C46)
+     ("Source Package" TP)
+     (Value TP)))
+   (place TP2
+    (property 
+     (Size Hole)
+     (Family TEST_POINT)
+     ("PCB Footprint" TP)
+     (timestamp 01091C4D)
+     ("Source Package" TP)
+     (Value TP))))
+  (component R
+   (place R25
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01088008)
+     ("Source Package" R)
+     (Value 10K)
+     (ERP "M09-06-0008")
+     ("ERP NAME" "10K-1005")))
+   (place R26
+    (property 
+     (Family RESISTOR)
+     (NOTE NI)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01088012)
+     ("Source Package" R)
+     (Value 120/NI)
+     (ERP "M09-06-0026")
+     ("ERP NAME" "120-1005")))
+   (place R27
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093EFF)
+     ("Source Package" R)
+     (Value 4.7K)
+     ("ERP NAME" "75-1005")
+     (ERP "M09-06-0015")))
+   (place R28
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 0108801C)
+     ("Source Package" R)
+     (Value 10K)
+     ("ERP NAME" "10K-1005")
+     (ERP "M09-06-0008")))
+   (place R29
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01088026)
+     ("Source Package" R)
+     (Value 47)
+     ("ERP NAME" "10-1005")
+     (ERP "M09-06-0014")))
+   (place R30
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093ED9)
+     ("Source Package" R)
+     (Value 0)
+     ("ERP NAME" "75-1005")
+     (ERP "M09-06-0015")))
+   (place R31
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01088030)
+     ("Source Package" R)
+     (Value 100)
+     (ERP "M09-06-0003")
+     ("ERP NAME" "100-1005")))
+   (place R32
+    (property 
+     (Size 1608)
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 0108AE4A)
+     ("Source Package" R)
+     (Value 75)))
+   (place R33
+    (property 
+     (Size 1608)
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 0108AE53)
+     ("Source Package" R)
+     (Value 75)))
+   (place R34
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093E93)
+     ("Source Package" R)
+     (Value 1K)
+     (ERP "M09-06-0015")
+     ("ERP NAME" "75-1005")))
+   (place R35
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093EC6)
+     ("Source Package" R)
+     (Value 4.7K)
+     (ERP "M09-06-0015")
+     ("ERP NAME" "75-1005")))
+   (place R36
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093EA7)
+     ("Source Package" R)
+     (Value 1K)
+     (ERP "M09-06-0015")
+     ("ERP NAME" "75-1005")))
+   (place R37
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093EF5)
+     ("Source Package" R)
+     (Value 9.1_F)
+     (ERP "M09-06-0015")
+     ("ERP NAME" "75-1005")))
+   (place R38
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093F09)
+     ("Source Package" R)
+     (Value 100)
+     ("ERP NAME" "75-1005")
+     (ERP "M09-06-0015")))
+   (place R9
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01085D86)
+     ("Source Package" R)
+     (Value 10K)
+     (ERP "M09-02-0024")
+     ("ERP NAME" 10K)))
+   (place R39
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093F13)
+     ("Source Package" R)
+     (Value 0)
+     (ERP "M09-06-0015")
+     ("ERP NAME" "75-1005")))
+   (place R40
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093F46)
+     ("Source Package" R)
+     (Value 9.1_F)
+     ("ERP NAME" "75-1005")
+     (ERP "M09-06-0015")))
+   (place R41
+    (property 
+     (Size 1608)
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01085C42)
+     ("Source Package" R)
+     (Value 100K)))
+   (place R10
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01085D46)
+     ("Source Package" R)
+     (Value 1K)
+     (ERP "M09-02-0016")
+     ("ERP NAME" 1K)))
+   (place R42
+    (property 
+     (Size 1608)
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01085C2D)
+     ("Source Package" R)
+     (Value 26.1K_1%)))
+   (place R11
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01085D21)
+     ("Source Package" R)
+     (Value 10K)
+     (ERP "M09-02-0021")
+     ("ERP NAME" 4.7K)))
+   (place R43
+    (property 
+     (Size 1608)
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01085BF0)
+     ("Source Package" R)
+     (Value 10K_1%)))
+   (place R12
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01085D92)
+     ("Source Package" R)
+     (Value 330)
+     (ERP "M09-02-0013")
+     ("ERP NAME" 330)))
+   (place R44
+    (property 
+     (Size 1608)
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01085BE5)
+     ("Source Package" R)
+     (Value 2.2K)))
+   (place R45
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093F95)
+     ("Source Package" R)
+     (Value 9.1_F)
+     (ERP "M09-06-0015")
+     ("ERP NAME" "75-1005")))
+   (place R13
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01085D5F)
+     ("Source Package" R)
+     (Value 2.2K)
+     ("ERP NAME" 2.2K)
+     (ERP "M09-02-0019")))
+   (place R46
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093F9F)
+     ("Source Package" R)
+     (Value 100)
+     (ERP "M09-06-0015")
+     ("ERP NAME" "75-1005")))
+   (place R14
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01085D7A)
+     ("Source Package" R)
+     (Value 330)
+     ("ERP NAME" "330-1005")
+     (ERP "M09-06-0004")))
+   (place R15
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01085DA9)
+     ("Source Package" R)
+     (Value 1K)
+     (ERP "M09-06-0005")
+     ("ERP NAME" "1K-1005")))
+   (place R48
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093FCE)
+     ("Source Package" R)
+     (Value 100)
+     ("ERP NAME" "75-1005")
+     (ERP "M09-06-0015")))
+   (place R49
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093E9D)
+     ("Source Package" R)
+     (Value 1K)
+     (ERP "M09-06-0015")
+     ("ERP NAME" "75-1005")))
+   (place R50
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093EB1)
+     ("Source Package" R)
+     (Value 1K)
+     (ERP "M09-06-0015")
+     ("ERP NAME" "75-1005")))
+   (place R51
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01093FE1)
+     ("Source Package" R)
+     (Value 9.1_F)
+     ("ERP NAME" "75-1005")
+     (ERP "M09-06-0015")))
+   (place R52
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 0109405D)
+     ("Source Package" R)
+     (Value 100)
+     (ERP "M09-06-0015")
+     ("ERP NAME" "75-1005")))
+   (place R22
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01087F4C)
+     ("Source Package" R)
+     (Value 10K)
+     ("ERP NAME" "2.2K-1005")
+     (ERP "M09-06-0006")))
+   (place R23
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01087FF4)
+     ("Source Package" R)
+     (Value 47)
+     (ERP "M09-06-0014")
+     ("ERP NAME" "10-1005")))
+   (place R24
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RS-1005")
+     (timestamp 01087FFE)
+     ("Source Package" R)
+     (Value 10K)
+     (ERP "M09-06-0006")
+     ("ERP NAME" "2.2K-1005"))))
+  (component "MMBT6427/SOT-23"
+   (place Q1
+    (property 
+     (Size "SOT-23")
+     (Family Transistor)
+     ("PCB Footprint" "SOT-23")
+     (timestamp 0108B37B)
+     ("Source Package" "MMBT6427/SOT-23")
+     (Value MMBT6427)))
+   (place Q2
+    (property 
+     (Size "SOT-23")
+     (Family Transistor)
+     ("PCB Footprint" "SOT-23")
+     (timestamp 0108B39D)
+     ("Source Package" "MMBT6427/SOT-23")
+     (Value MMBT6427)))
+   (place Q4
+    (property 
+     (Family Transistor)
+     ("PCB Footprint" "SOT-23")
+     (timestamp 01085D52)
+     ("Source Package" "MMBT6427/SOT-23")
+     (Value MMBT6427))))
+  (component "CON u-SD_0"
+   (place J7
+    (property 
+     ("PCB Footprint" "CON_u-SD-RU")
+     (timestamp 010931C7)
+     ("Source Package" "CON u-SD_0")
+     (Value "CON_u-SD/NI"))))
+  (component "ASSR-4118"
+   (place PC2
+    (property 
+     (Size "DIP-8")
+     (Family IC)
+     (timestamp 01085D14)
+     ("Source Package" "ASSR-4118")
+     (Value "ASSR-4118"))))
+  (component CON10_1
+   (place J3
+    (property 
+     ("PCB Footprint" "12505WS-8P")
+     (timestamp 01091335)
+     ("Source Package" CON10_1)
+     (Value "12505WS-08")))))
+ (library
+  (image R
+   (property 
+    (sourcelib E:\\TEMP\\PROJECT\\HSBEST.OLB)
+    (Family RESISTOR)
+    (Size 1608))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image "CAP NP"
+   (property 
+    (sourcelib E:\\TEMP\\PROJECT\\HSBEST.OLB)
+    (Size 1608)
+    (Family CAPACITOR))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image "M HOLE PLATED_4"
+   (property 
+    (sourcelib G:\\WORK\\PRODUCT\\HW\\STAND_ALONE\\IPC1100\\IPC1100_V1.20_SCH.DSN))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4))))
+  (image MAX485
+   (property 
+    (sourcelib E:\\TEMP\\PROJECT\\HSBEST.OLB)
+    (Family IC))
+   (pin 999 1
+    (property 
+     (pinname RO)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname R\\E\\)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname DE)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname DI)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname GND)
+     (pintype 7)))
+   (pin 999 8
+    (property 
+     (pinname VCC)
+     (pintype 7)))
+   (pin 999 6
+    (property 
+     (pinname IO)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname I\\O\\)
+     (pintype 4))))
+  (image DRV8834PWP
+   (property 
+    (sourcelib E:\\H_BAIDU\\PROJECT\\HSBEST.OLB))
+   (pin 999 1
+    (property 
+     (pinname nSLEEP)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname BDECAY)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname ADECAY)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname AOUT1)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname AISEN)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname AOUT2)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname BOUT2)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname BISEN)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname BOUT1)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname nENBL/AENBL)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname SETP/BENBL)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname DIR/BPHASE)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname M0/APHASE)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname M1)
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname CONFIG)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname nFAULT)
+     (pintype 4)))
+   (pin 999 17
+    (property 
+     (pinname VCP)
+     (pintype 4)))
+   (pin 999 18
+    (property 
+     (pinname VM)
+     (pintype 4)))
+   (pin 999 19
+    (property 
+     (pinname VM)
+     (pintype 4)))
+   (pin 999 20
+    (property 
+     (pinname VINT)
+     (pintype 4)))
+   (pin 999 21
+    (property 
+     (pinname GND)
+     (pintype 4)))
+   (pin 999 22
+    (property 
+     (pinname AVREF)
+     (pintype 4)))
+   (pin 999 23
+    (property 
+     (pinname BVREF)
+     (pintype 4)))
+   (pin 999 24
+    (property 
+     (pinname VREFO)
+     (pintype 4)))
+   (pin 999 25
+    (property 
+     (pinname PPAD)
+     (pintype 4))))
+  (image R_2
+   (property 
+    (sourcelib D:\\CADWORK\\UDPTECH\\KIMS\\OB216GV.DSN)
+    (Family RESISTOR)
+    (Size 1608))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image MP1482
+   (property 
+    (sourcelib D:\\USERS\\H_ACT\\PROJECT\\HSBEST.OLB))
+   (pin 999 1
+    (property 
+     (pinname BS)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname IN)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname SW)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname GND)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname FB)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname COMP)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname EN)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname SS)
+     (pintype 4))))
+  (image INDUCTOR_CORE
+   (property 
+    (sourcelib E:\\H_ACT\\PROJECT\\HSBEST.OLB)
+    (Family INDUCTOR))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image TP
+   (property 
+    (sourcelib D:\\H_BAIDU\\PROJECT\\HSBEST.OLB)
+    (Size Hole)
+    (Family TEST_POINT))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4))))
+  (image CON3_1
+   (property 
+    (sourcelib E:\\H_BAIDU\\PROJECT\\NF1100\\SCHEMATIC\\NF1100_V1.01.DSN))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4))))
+  (image CON10_2
+   (property 
+    (sourcelib D:\\H_BAIDU\\PROJECT\\NS6702_IPN\\SCHEMATIC\\NS6702_V1.0.DSN))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4))))
+  (image "CON 50P DUAL"
+   (property 
+    (sourcelib E:\\USERS\\H_ACT\\PROJECT\\HSBEST.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname 11)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname 13)
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname 15)
+     (pintype 4)))
+   (pin 999 17
+    (property 
+     (pinname 17)
+     (pintype 4)))
+   (pin 999 19
+    (property 
+     (pinname 19)
+     (pintype 4)))
+   (pin 999 21
+    (property 
+     (pinname 21)
+     (pintype 4)))
+   (pin 999 23
+    (property 
+     (pinname 23)
+     (pintype 4)))
+   (pin 999 25
+    (property 
+     (pinname 25)
+     (pintype 4)))
+   (pin 999 27
+    (property 
+     (pinname 27)
+     (pintype 4)))
+   (pin 999 29
+    (property 
+     (pinname 29)
+     (pintype 4)))
+   (pin 999 31
+    (property 
+     (pinname 31)
+     (pintype 4)))
+   (pin 999 33
+    (property 
+     (pinname 33)
+     (pintype 4)))
+   (pin 999 35
+    (property 
+     (pinname 35)
+     (pintype 4)))
+   (pin 999 37
+    (property 
+     (pinname 37)
+     (pintype 4)))
+   (pin 999 39
+    (property 
+     (pinname 39)
+     (pintype 4)))
+   (pin 999 41
+    (property 
+     (pinname 41)
+     (pintype 4)))
+   (pin 999 43
+    (property 
+     (pinname 43)
+     (pintype 4)))
+   (pin 999 45
+    (property 
+     (pinname 45)
+     (pintype 4)))
+   (pin 999 47
+    (property 
+     (pinname 47)
+     (pintype 4)))
+   (pin 999 49
+    (property 
+     (pinname 49)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname 12)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname 14)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname 16)
+     (pintype 4)))
+   (pin 999 18
+    (property 
+     (pinname 18)
+     (pintype 4)))
+   (pin 999 20
+    (property 
+     (pinname 20)
+     (pintype 4)))
+   (pin 999 22
+    (property 
+     (pinname 22)
+     (pintype 4)))
+   (pin 999 24
+    (property 
+     (pinname 24)
+     (pintype 4)))
+   (pin 999 26
+    (property 
+     (pinname 26)
+     (pintype 4)))
+   (pin 999 28
+    (property 
+     (pinname 28)
+     (pintype 4)))
+   (pin 999 30
+    (property 
+     (pinname 30)
+     (pintype 4)))
+   (pin 999 32
+    (property 
+     (pinname 32)
+     (pintype 4)))
+   (pin 999 34
+    (property 
+     (pinname 34)
+     (pintype 4)))
+   (pin 999 36
+    (property 
+     (pinname 36)
+     (pintype 4)))
+   (pin 999 38
+    (property 
+     (pinname 38)
+     (pintype 4)))
+   (pin 999 40
+    (property 
+     (pinname 40)
+     (pintype 4)))
+   (pin 999 42
+    (property 
+     (pinname 42)
+     (pintype 4)))
+   (pin 999 44
+    (property 
+     (pinname 44)
+     (pintype 4)))
+   (pin 999 46
+    (property 
+     (pinname 46)
+     (pintype 4)))
+   (pin 999 48
+    (property 
+     (pinname 48)
+     (pintype 4)))
+   (pin 999 50
+    (property 
+     (pinname 50)
+     (pintype 4))))
+  (image CON10_1
+   (property 
+    (sourcelib E:\\H_BAIDU\\PROJECT\\NVN042MEXT\\SCHEMATIC\\NVN042M_LT_V1.00.DSN))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4))))
+  (image "CON 40P_1"
+   (property 
+    (sourcelib D:\\H_BAIDU\\PROJECT\\NS6202_IPN\\SCHEMATIC\\NS6202_V4.0.DSN))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname 11)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname 12)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname 13)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname 14)
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname 15)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname 16)
+     (pintype 4)))
+   (pin 999 17
+    (property 
+     (pinname 17)
+     (pintype 4)))
+   (pin 999 18
+    (property 
+     (pinname 18)
+     (pintype 4)))
+   (pin 999 19
+    (property 
+     (pinname 19)
+     (pintype 4)))
+   (pin 999 20
+    (property 
+     (pinname 20)
+     (pintype 4)))
+   (pin 999 21
+    (property 
+     (pinname 21)
+     (pintype 4)))
+   (pin 999 22
+    (property 
+     (pinname 22)
+     (pintype 4)))
+   (pin 999 23
+    (property 
+     (pinname 23)
+     (pintype 4)))
+   (pin 999 24
+    (property 
+     (pinname 24)
+     (pintype 4)))
+   (pin 999 25
+    (property 
+     (pinname 25)
+     (pintype 4)))
+   (pin 999 26
+    (property 
+     (pinname 26)
+     (pintype 4)))
+   (pin 999 27
+    (property 
+     (pinname 27)
+     (pintype 4)))
+   (pin 999 28
+    (property 
+     (pinname 28)
+     (pintype 4)))
+   (pin 999 29
+    (property 
+     (pinname 29)
+     (pintype 4)))
+   (pin 999 30
+    (property 
+     (pinname 30)
+     (pintype 4)))
+   (pin 999 31
+    (property 
+     (pinname 31)
+     (pintype 4)))
+   (pin 999 32
+    (property 
+     (pinname 32)
+     (pintype 4)))
+   (pin 999 33
+    (property 
+     (pinname 33)
+     (pintype 4)))
+   (pin 999 34
+    (property 
+     (pinname 34)
+     (pintype 4)))
+   (pin 999 35
+    (property 
+     (pinname 35)
+     (pintype 4)))
+   (pin 999 36
+    (property 
+     (pinname 36)
+     (pintype 4)))
+   (pin 999 37
+    (property 
+     (pinname 37)
+     (pintype 4)))
+   (pin 999 38
+    (property 
+     (pinname 38)
+     (pintype 4)))
+   (pin 999 39
+    (property 
+     (pinname 39)
+     (pintype 4)))
+   (pin 999 40
+    (property 
+     (pinname 40)
+     (pintype 4)))
+   (pin 999 M2
+    (property 
+     (pinname M2)
+     (pintype 4)))
+   (pin 999 M1
+    (property 
+     (pinname M1)
+     (pintype 4)))
+   (pin 999 M3
+    (property 
+     (pinname M3)
+     (pintype 4)))
+   (pin 999 M4
+    (property 
+     (pinname M4)
+     (pintype 4))))
+  (image DIODE_0
+   (property 
+    (sourcelib "D:\\1_ARTIS\\FILE\\UDP\\IPX3100HD\\MAIN\\REV 1.0_(AP11001)\\SCHEMATIC\\0105_1\\IPX3100HD_MAIN_V1_00_SCH.DSN"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image "CON 6P_0"
+   (property 
+    (sourcelib D:\\H_BAIDU\\PROJECT\\NS3402_IPN\\SCHEMATIC\\NS3402HD_V1.0.DSN)
+    (Family CONNECTOR))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 M2
+    (property 
+     (pinname M2)
+     (pintype 4)))
+   (pin 999 M1
+    (property 
+     (pinname M1)
+     (pintype 4))))
+  (image DIODE_1
+   (property 
+    (sourcelib E:\\工作文件\\工作\\电路设计\\PADS\\NF1000_V2.01_SCH\\NF1000_V2.01_SCH.DSN)
+    (Size "LL-44")
+    (Family DIODE))
+   (pin 999 1
+    (property 
+     (pinname ANODE)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname CATHODE)
+     (pintype 4))))
+  (image "CON u-SD_0"
+   (property 
+    (sourcelib D:\\H_BAIDU\\PROJECT\\IPN_IMA\\SCHEMATIC\\IMA1102_V1.00.DSN))
+   (pin 999 1
+    (property 
+     (pinname DAT2)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname CD/DAT3)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname CMD)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname VDD)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname CLK)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname Vss2)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname DAT0)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname DAT1)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname G1)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname G2)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname G3)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname G4)
+     (pintype 4)))
+   (pin 999 CD
+    (property 
+     (pinname CD)
+     (pintype 4))))
+  (image CON3_3
+   (property 
+    (sourcelib D:\\H_BAIDU\\PROJECT\\NS6202_IPN\\SCHEMATIC\\NS6202_V4.0.DSN))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 M2
+    (property 
+     (pinname M2)
+     (pintype 4)))
+   (pin 999 M1
+    (property 
+     (pinname M1)
+     (pintype 4))))
+  (image "R-PACK"
+   (property 
+    (sourcelib E:\\H_ACT\\PROJECT\\HSBEST.OLB)
+    (Size 1608x4)
+    (Family RESISTOR))
+   (pin 999 1
+    (property 
+     (pinname R1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname R2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname R3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname R4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname R5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname R6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname R7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname R8)
+     (pintype 4))))
+  (image "SW PB_0"
+   (property 
+    (sourcelib D:\\H_BAIDU\\PROJECT\\IPN_IMA\\SCHEMATIC\\IMA1102_V1.00.DSN)
+    (Family SWITCH))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image INDUCTOR
+   (property 
+    (sourcelib E:\\TEMP\\PROJECT\\HSBEST.OLB)
+    (Family INDUCTOR))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image "HA-003_0"
+   (property 
+    (sourcelib "E:\\H_BAIDU\\PROJECT\\NS202HD-MINI\\SCHEMATIC\\NS202HD_V1.00.DSN"))
+   (pin 999 1
+    (property 
+     (pinname RD+)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname CT)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname "RD-")
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname TD+)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname CT)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname "TD-")
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname "TX-(6)")
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname CT)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname "TX+(3)")
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname "RX-(2)")
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname CT)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname "RX+(1)")
+     (pintype 4))))
+  (image "MMBT6427/SOT-23"
+   (property 
+    (sourcelib E:\\H_BAIDU\\PROJECT\\HSBEST.OLB)
+    (Size "SOT-23")
+    (Family Transistor))
+   (pin 999 2
+    (property 
+     (pinname EMITTER)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname COLLECTOR)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname BASE)
+     (pintype 0))))
+  (image PC817
+   (property 
+    (sourcelib E:\\TEMP\\PROJECT\\HSBEST.OLB)
+    (Family IC)
+    (Size "DIP-8"))
+   (pin 999 1
+    (property 
+     (pinname A)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname Co)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname E)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname Ca)
+     (pintype 4))))
+  (image "ASSR-4118"
+   (property 
+    (sourcelib D:\\H_BAIDU\\PROJECT\\HSBEST.OLB)
+    (Family IC)
+    (Size "DIP-8"))
+   (pin 999 1
+    (property 
+     (pinname A)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname X)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname Y)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname K)
+     (pintype 4))))
+  (image "MMBT3906/SOT-23"
+   (property 
+    (sourcelib E:\\TEMP\\PROJECT\\HSBEST.OLB)
+    (Family Transistor))
+   (pin 999 3
+    (property 
+     (pinname C)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname E)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname B)
+     (pintype 0)))))
+ (network
+  (net +12V
+    (property 
+     (nettype S)
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J5-1 U5-2 C35-1 R41-1 C34-1 R7-2 D1-2))
+  (net +3.3V
+    (property 
+     (nettype S)
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-1 J2-31 J5-3 J1-2 J1-22 J1-28 J1-30 J1-44 C32-1
+     C33-1 L1-2 R42-1 R11-2 BC1-2 PC2-1 Q3-2 R9-1 R22-2
+     R28-2 U3-8 R25-2 BC4-2 R5-1 R6-1 J11-1 R16-2 R17-2
+     BC2-2 J4-1 J4-2 J4-3 J4-30 J4-31 RP7-2 RP7-4 RP7-6
+     RP7-8 RP6-2 RP6-4 RP6-6 RP6-8 FB5-1 FB6-2))
+  (net AIN
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-39))
+  (net AOUT
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-31))
+  (net DAC_OUT
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-37))
+  (net DI_CON0
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R13-1 R12-1 J9-1))
+  (net DI_D0
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-4 R11-1 PC1-4))
+  (net DI_TYPE
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-11 R10-1))
+  (net DO_COM_CON
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     PC2-4 J9-4))
+  (net DO_CON0
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     PC2-3 J9-3))
+  (net DO_D0
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-8 R15-1))
+  (net EPHY_TRCT
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     C1-1 J1-46 T1-2 T1-7))
+  (net FD_SW
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-32 SW1-2 C2-1))
+  (net FOCUS_AN
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J12-4 U6-6))
+  (net FOCUS_AP
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J12-3 U6-4))
+  (net FOCUS_BN
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J12-6 U6-7))
+  (net FOCUS_BP
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J12-5 U6-9))
+  (net FOCUS_CTRL_CLK
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-23 U6-11))
+  (net FOCUS_CTRL_DIR
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-26 U6-12))
+  (net FOCUS_CTRL_EN
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-29 U6-10))
+  (net FOCUS_CTRL_NFAULT
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-21 U6-16 R35-1))
+  (net FOCUS_CTRL_NSLEEP
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-24 U6-1))
+  (net GND
+    (property 
+     (nettype S)
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-49 J2-2 J2-12 J2-34 J2-48 C1-2 MH1-1 MH2-1 J5-2
+     J5-M2 J5-M1 MH3-1 MH4-1 J1-5 J1-9 J1-17 J1-27 J1-29
+     J1-33 J1-41 J1-43 U5-4 C35-2 R44-1 C32-2 C33-2 R43-1
+     C34-2 C36-2 BC1-1 PC1-3 PC1-2 Q4-2 C6-1 C7-1 U3-5
+     R24-1 BC4-1 C25-2 C24-2 Q1-2 Q2-2 J11-4 J11-5 J11-6
+     R8-2 BC2-1 J3-2 J3-9 J3-10 J4-5 J4-8 J4-10 J4-15
+     J4-20 J4-25 J4-26 J4-33 J4-39 J4-40 J4-M2 J4-M1 J4-M3
+     J4-M4 J9-2 J9-M2 J9-M1 MH7-1 MH8-1 MH6-1 MH5-1 MH11-1
+     MH10-1 MH9-1 MH12-1 J7-6 J7-9 J7-10 J7-11 J7-12 BC38-1
+     SW1-1 C2-2 C27-2 R48-1 C28-2 R38-1 R45-2 R51-2 R46-1
+     R37-2 J12-9 J12-10 U6-21 U6-25 C23-2 U4-21 U4-25 R30-1
+     R39-1 R52-1 R40-2 C38-2 C39-2))
+  (net I2C_SCL
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J5-4 J1-24))
+  (net I2C_SDA
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J5-5 J1-26))
+  (net IR_PWM
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J5-6 J1-7))
+  (net LED0
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     Q1-3 R5-2 J3-7))
+  (net LED1
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     Q2-3 R6-2 J3-8))
+  (net LED_GN
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-10 R3-2))
+  (net LED_MLINK
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-45 R4-2))
+  (net LENC_IRIS_PWM1
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-30))
+  (net LENC_IRIS_PWM2
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-27))
+  (net MVDD
+    (property 
+     (nettype S)
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     C28-1 R34-1 C29-2 C30-2 R27-2 R36-1 U6-18 U6-19 C23-1
+     R49-1 U4-18 U4-19 R35-2 R50-1 FB6-1 C39-1))
+  (net N15229178
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R10-2 Q3-1 R9-2))
+  (net N15229370
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     D2-1 Q3-3))
+  (net N15229490
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R13-2 PC1-1))
+  (net N16657531
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R12-2 D2-2))
+  (net N16698572
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R14-2 Q4-3))
+  (net N17016752
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U5-7 R41-2))
+  (net N17016775
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U5-8 C36-1))
+  (net N17016804
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U5-6 C37-1))
+  (net N17016806
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R44-2 C37-2))
+  (net N17016820
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U5-5 R43-2 R42-2))
+  (net N17016832
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U5-3 C31-2 L1-1))
+  (net N173250840
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U5-1 C31-1))
+  (net N173253942
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R15-2 Q4-1))
+  (net N17334107
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     C6-2 R23-1 U3-7 R24-2))
+  (net N17334109
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R28-1 U3-1 R31-2))
+  (net N17334111
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R29-1 R22-1 C7-2 U3-6))
+  (net N17340800
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R14-1 PC2-2))
+  (net N17346161
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R32-1 C24-1))
+  (net N17346163
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     C25-1 R33-1))
+  (net N17347463
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     Q1-1 R4-1))
+  (net N17347493
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     Q2-1 R3-1))
+  (net N17371906
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J3-1 D1-1))
+  (net N17379738
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     FB5-2 J7-4 BC38-2))
+  (net N17383042
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R34-2 U4-15))
+  (net N17383730
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R37-1 U6-5))
+  (net N17383732
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U6-8 R40-1))
+  (net N17383734
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R46-2 U6-3))
+  (net N17383736
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R48-2 U6-2))
+  (net N17383752
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U6-22 U6-23 U6-24))
+  (net N17383760
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U6-20 C38-1))
+  (net N17383762
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U6-14 R39-2))
+  (net N17383772
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U6-15 R49-2))
+  (net N17383775
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U6-13 R50-2))
+  (net N17383778
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     C29-1 U6-17))
+  (net N17383808
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R45-1 U4-5))
+  (net N17383810
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R51-1 U4-8))
+  (net N17383812
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U4-3 R52-2))
+  (net N17383820
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R38-2 U4-2))
+  (net N17383828
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U4-22 U4-23 U4-24))
+  (net N17383836
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     C27-1 U4-20))
+  (net N17383838
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     U4-14 R30-2))
+  (net N17383848
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R36-2 U4-13))
+  (net N17383858
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     C30-1 U4-17))
+  (net POE_LINE_1_2+
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R32-2 T1-15))
+  (net "POE_LINE_3_6-"
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R33-2 T1-10))
+  (net RTS_485
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-9 U3-2 U3-3))
+  (net SD0_CLK
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-14 RP6-7 J7-5))
+  (net SD0_CMD
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-13 RP7-3 J7-3))
+  (net SD0_DATA0
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-17 RP6-5 J7-7))
+  (net SD0_DATA1
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-18 RP6-3 J7-8))
+  (net SD0_DATA2
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-16 RP7-7 J7-1))
+  (net SD0_DATA3
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-15 RP7-5 J7-2))
+  (net SD0_INS
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-35 RP6-1 J7-CD))
+  (net TDN_OUT1
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-3 J4-27))
+  (net TDN_OUT2
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-6 J4-28))
+  (net TPRX+
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-48 T1-1))
+  (net "TPRX-"
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-50 T1-3))
+  (net TPRXN_CON
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     T1-14 J3-4))
+  (net TPRXP_CON
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     T1-16 J3-3))
+  (net TPTX+
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-49 T1-6))
+  (net "TPTX-"
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-47 T1-8))
+  (net TPTXN_CON
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     T1-9 J3-6))
+  (net TPTXP_CON
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     T1-11 J3-5))
+  (net TRX_N
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R26-2 R23-2 J9-5))
+  (net TRX_P
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     R29-2 R26-1 J9-6))
+  (net UART0_RXD
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-34 TP1-1))
+  (net UART0_TXD
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-36 TP2-1))
+  (net UART1_RXD
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-4 R31-1))
+  (net UART1_TXD
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-12 U3-4 R25-1))
+  (net USB_DN
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-15 J11-2))
+  (net USB_DP
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-14 J11-3))
+  (net USB_VBUS
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-16 R7-1 R8-1))
+  (net USB_VBUS_EN
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-3 R16-1))
+  (net USB_VBUS_OCN
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-42 R17-1))
+  (net VD_CS
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-11 J4-37))
+  (net VD_D0
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-35 J4-11))
+  (net VD_D1
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-33 J4-12))
+  (net VD_D10
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-42 J4-23))
+  (net VD_D11
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-43 J4-24))
+  (net VD_D2
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-40 J4-13))
+  (net VD_D3
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-36 J4-14))
+  (net VD_D4
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-38 J4-16))
+  (net VD_D5
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-37 J4-17))
+  (net VD_D6
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-41 J4-18))
+  (net VD_D7
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-39 J4-19))
+  (net VD_D8
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-44 J4-21))
+  (net VD_D9
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-46 J4-22))
+  (net VD_HS
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-45 J4-6))
+  (net VD_PCLK
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-50 J4-9))
+  (net VD_RSTN
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-1 J4-36))
+  (net VD_SCK
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-8 J4-35))
+  (net VD_SIMO
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-10 J4-34))
+  (net VD_SOMI
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J1-13 J4-38))
+  (net VD_VS
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-47 J4-7))
+  (net ZOOM_AN
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J12-2 U4-6))
+  (net ZOOM_AP
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J12-1 U4-4))
+  (net ZOOM_BN
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J12-7 U4-7))
+  (net ZOOM_BP
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J12-8 U4-9))
+  (net ZOOM_CTRL_CLK
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-28 U4-11))
+  (net ZOOM_CTRL_DIR
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-32 U4-12))
+  (net ZOOM_CTRL_EN
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-25 U4-10))
+  (net ZOOM_CTRL_NFAULT
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-19 R27-1 U4-16))
+  (net ZOOM_CTRL_NSLEEP
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-22 U4-1)))
+)

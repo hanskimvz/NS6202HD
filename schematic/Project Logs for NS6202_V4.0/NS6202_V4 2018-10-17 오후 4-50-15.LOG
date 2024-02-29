@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=GND Pin=C38-2
+Removed Pin From Net: NetName=N17346698 Pin=D1-1
+Removed Pin From Net: NetName=+12V Pin=D1-2
+Removed Pin From Net: NetName=+3.3V Pin=FB6-1
+Removed Pin From Net: NetName=GND Pin=J3-9
+Removed Pin From Net: NetName=GND Pin=J3-10
+Removed Pin From Net: NetName=TRX_N Pin=J7-1
+Removed Pin From Net: NetName=TRX_P Pin=J7-2
+Removed Pin From Net: NetName=GND Pin=J7-3
+Removed Pin From Net: NetName=GND Pin=J7-4
+Removed Pin From Net: NetName=GND Pin=J9-5
+Removed Pin From Net: NetName=GND Pin=J9-6
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=FD_SW Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=+12V Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U6-4
+Change Component DesignItemId : Designator=R8 Old DesignItemId=0/NI New DesignItemId=4.7K
+Change Component DesignItemId : Designator=R7 Old DesignItemId=1K New DesignItemId=5.6K
+Change Component DesignItemId : Designator=J9 Old DesignItemId=12505WS-4P//NI New DesignItemId=12505WS-06
+Change Component DesignItemId : Designator=J3 Old DesignItemId=12505WS-08 New DesignItemId=12505WS-10
+Change Component DesignItemId : Designator=D1 Old DesignItemId=RB051L-40 New DesignItemId=MB6S
+Change Component Footprint: Designator=J9 Old Footprint=12505WS-4P New Footprint=12505WS-6P
+Change Component Footprint: Designator=J3 Old Footprint=12505WS-8P New Footprint=12505WS-10P
+Change Component Footprint: Designator=D1 Old Footprint=SOD-106 New Footprint=MB2S
+Change Component Comment : Designator=R8 Old Comment=0/NI New Comment=4.7K
+Change Component Comment : Designator=R7 Old Comment=1K New Comment=5.6K
+Change Component Comment : Designator=J9 Old Comment=12505WS-4P//NI New Comment=12505WS-06
+Change Component Comment : Designator=J3 Old Comment=12505WS-08 New Comment=12505WS-10
+Change Component Comment : Designator=D1 Old Comment=RB051L-40 New Comment=MB6S
+Added Component: Designator=J10(05005HS-12P)
+Added Component: Designator=J13(TW-C100P/PoE)
+Added Pin To Net: NetName=+3.3V Pin=BC2-2
+Added Pin To Net: NetName=N17346698 Pin=D1-2
+Added Pin To Net: NetName=+12V Pin=D1-3
+Added Pin To Net: NetName=GND Pin=J3-11
+Added Pin To Net: NetName=GND Pin=J3-12
+Added Pin To Net: NetName=TRX_N Pin=J9-5
+Added Pin To Net: NetName=TRX_P Pin=J9-6
+Added Pin To Net: NetName=SD0_CMD Pin=J10-1
+Added Pin To Net: NetName=SD0_DATA3 Pin=J10-2
+Added Pin To Net: NetName=SD0_DATA0 Pin=J10-3
+Added Pin To Net: NetName=SD0_DATA1 Pin=J10-4
+Added Pin To Net: NetName=SD0_DATA2 Pin=J10-5
+Added Pin To Net: NetName=+3.3V Pin=J10-6
+Added Pin To Net: NetName=+3.3V Pin=J10-7
+Added Pin To Net: NetName=SD0_CLK Pin=J10-8
+Added Pin To Net: NetName=GND Pin=J10-9
+Added Pin To Net: NetName=GND Pin=J10-10
+Added Pin To Net: NetName=SD0_INS Pin=J10-11
+Added Pin To Net: NetName=FD_SW Pin=J10-12
+Added Pin To Net: NetName=GND Pin=J10-M1
+Added Pin To Net: NetName=GND Pin=J10-M2
+Added Pin To Net: NetName=GND Pin=J10-M3
+Added Pin To Net: NetName=GND Pin=J10-M4
+Added Pin To Net: NetName=+3.3V Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J13-7
+Added Pin To Net: NetName=+12V Pin=R7-2
+Added Pin To Net: NetName=+12V_POE Pin=D1-1
+Added Pin To Net: NetName=+12V_POE Pin=J13-8
+Added Net: Name=+12V_POE
+Added Pin To Net: NetName=POE_LINE_1_2+ Pin=J13-1
+Added Pin To Net: NetName=POE_LINE_1_2+ Pin=R32-2
+Added Pin To Net: NetName=POE_LINE_1_2+ Pin=T1-15
+Added Net: Name=POE_LINE_1_2+
+Added Pin To Net: NetName=POE_LINE_3_6- Pin=J13-2
+Added Pin To Net: NetName=POE_LINE_3_6- Pin=R33-2
+Added Pin To Net: NetName=POE_LINE_3_6- Pin=T1-10
+Added Net: Name=POE_LINE_3_6-
+Added Pin To Net: NetName=POE_LINE_4_5+ Pin=J3-9
+Added Pin To Net: NetName=POE_LINE_4_5+ Pin=J13-3
+Added Net: Name=POE_LINE_4_5+
+Added Pin To Net: NetName=POE_LINE_7_8- Pin=J3-10
+Added Pin To Net: NetName=POE_LINE_7_8- Pin=J13-4
+Added Net: Name=POE_LINE_7_8-

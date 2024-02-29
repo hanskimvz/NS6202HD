@@ -1,0 +1,39 @@
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING:  [DRC0006]  Net has fewer than two connections DAC_OUT
+                    SCHEMATIC1, 1_CONNECTOR  (91.44, 81.28) 
+WARNING:  [DRC0006]  Net has fewer than two connections AOUT
+                    SCHEMATIC1, 1_CONNECTOR  (78.74, 73.66) 
+WARNING:  [DRC0006]  Net has fewer than two connections AIN
+                    SCHEMATIC1, 1_CONNECTOR  (78.74, 83.82) 
+WARNING:  [DRC0006]  Net has fewer than two connections FOCUS_CTRL_EN
+                    SCHEMATIC1, 1_CONNECTOR  (231.14, 71.12) 
+WARNING:  [DRC0006]  Net has fewer than two connections FOCUS_CTRL_nFAULT
+                    SCHEMATIC1, 1_CONNECTOR  (231.14, 60.96) 
+WARNING:  [DRC0006]  Net has fewer than two connections LENC_IRIS_PWM2
+                    SCHEMATIC1, 1_CONNECTOR  (231.14, 68.58) 
+WARNING:  [DRC0006]  Net has fewer than two connections ZOOM_CTRL_CLK
+                    SCHEMATIC1, 1_CONNECTOR  (203.20, 68.58) 
+WARNING:  [DRC0006]  Net has fewer than two connections ZOOM_CTRL_nSLEEP
+                    SCHEMATIC1, 1_CONNECTOR  (203.20, 60.96) 
+WARNING:  [DRC0006]  Net has fewer than two connections FOCUS_CTRL_DIR
+                    SCHEMATIC1, 1_CONNECTOR  (203.20, 66.04) 
+WARNING:  [DRC0006]  Net has fewer than two connections ZOOM_CTRL_EN
+                    SCHEMATIC1, 1_CONNECTOR  (231.14, 66.04) 
+WARNING:  [DRC0006]  Net has fewer than two connections ZOOM_CTRL_nFAULT
+                    SCHEMATIC1, 1_CONNECTOR  (231.14, 58.42) 
+WARNING:  [DRC0006]  Net has fewer than two connections FOCUS_CTRL_nSLEEP
+                    SCHEMATIC1, 1_CONNECTOR  (203.20, 63.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections LENC_IRIS_PWM1
+                    SCHEMATIC1, 1_CONNECTOR  (203.20, 71.12) 
+WARNING:  [DRC0006]  Net has fewer than two connections ZOOM_CTRL_DIR
+                    SCHEMATIC1, 1_CONNECTOR  (203.20, 73.66) 
+WARNING:  [DRC0006]  Net has fewer than two connections FOCUS_CTRL_CLK
+                    SCHEMATIC1, 1_CONNECTOR  (231.14, 63.50) 
+
+Checking For Unconnected Bus Nets

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+3.3V Pin=R14-2
+Added Component: Designator=MH5(VA-2.2)
+Added Component: Designator=MH6(VA-2.2)
+Added Pin To Net: NetName=GND Pin=MH5-1
+Added Pin To Net: NetName=GND Pin=MH6-1
+Added Pin To Net: NetName=+3.3V Pin=PC2-1
+Added Pin To Net: NetName=N16698572 Pin=Q4-3
+Added Pin To Net: NetName=N16698572 Pin=R14-2
+Added Net: Name=N16698572
+Added Pin To Net: NetName=N17340800 Pin=PC2-2
+Added Pin To Net: NetName=N17340800 Pin=R14-1
+Added Net: Name=N17340800

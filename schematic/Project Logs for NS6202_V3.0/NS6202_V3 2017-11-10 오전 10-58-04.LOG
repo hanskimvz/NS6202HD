@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SD0_CMD Pin=RP7-3
+Removed Pin From Net: NetName=SD0_DATA3 Pin=RP7-5
+Added Pin To Net: NetName=SD0_DATA3 Pin=RP7-3
+Added Pin To Net: NetName=SD0_CMD Pin=RP7-5
+Change Net Name : Old Net Name=N17349502 New Net Name=N17349504

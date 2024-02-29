@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=POE_LINE_4_5+ Pin=J6-3
+Removed Pin From Net: NetName=POE_LINE_7_8- Pin=J6-4
+Removed Pin From Net: NetName=GND Pin=J6-5
+Change Component DesignItemId : Designator=J6 Old DesignItemId=CON 4P New DesignItemId=12505WR-05
+Change Component Footprint: Designator=J6 Old Footprint=12505WR-4P New Footprint=12505WR-5P
+Change Component Comment : Designator=J6 Old Comment=CON 4P New Comment=12505WR-05
+Added Pin To Net: NetName=GND Pin=J4-M3
+Added Pin To Net: NetName=GND Pin=J4-M4
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=POE_LINE_4_5+ Pin=J6-4
+Added Pin To Net: NetName=POE_LINE_7_8- Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-7

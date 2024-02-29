@@ -1,0 +1,25 @@
+Added Component: Designator=MH1(VA-2.2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH2(VA-2.2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH3(VA-2.2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH9(VA-2.2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH10(VA-2.2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH11(VA-2.2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH12(VA-2.2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R16(RS-1005)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Pin To Net: NetName=GND Pin=MH9-1
+Added Pin To Net: NetName=GND Pin=MH10-1
+Added Pin To Net: NetName=GND Pin=MH11-1
+Added Pin To Net: NetName=GND Pin=MH12-1
+Added Pin To Net: NetName=USB_VBUS_EN Pin=R16-1
+Added Pin To Net: NetName=+3.3V Pin=R16-2

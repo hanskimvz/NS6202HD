@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=R8 Old DesignItemId=4.7K New DesignItemId=10K
+Change Component DesignItemId : Designator=R7 Old DesignItemId=5.6K New DesignItemId=10K
+Change Component Comment : Designator=R8 Old Comment=4.7K New Comment=10K
+Change Component Comment : Designator=R7 Old Comment=5.6K New Comment=10K
+Added Component: Designator=TP3(TP)
+Added Component: Designator=TP4(TP)
+Added Pin To Net: NetName=UART0_RXD Pin=TP3-1
+Added Pin To Net: NetName=UART0_TXD Pin=TP4-1

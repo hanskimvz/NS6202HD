@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+3.3V Pin=J8-1
+Removed Pin From Net: NetName=UART0_RXD Pin=J8-2
+Removed Pin From Net: NetName=UART0_TXD Pin=J8-3
+Removed Pin From Net: NetName=GND Pin=J8-4
+Removed Pin From Net: NetName=GND Pin=J8-5
+Removed Pin From Net: NetName=GND Pin=J8-6
+Added Component: Designator=TP1(TP)
+Added Component: Designator=TP2(TP)
+Added Pin To Net: NetName=UART0_RXD Pin=TP1-1
+Added Pin To Net: NetName=UART0_TXD Pin=TP2-1

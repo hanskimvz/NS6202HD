@@ -1,0 +1,24 @@
+Change Component DesignItemId : Designator=J3 Old DesignItemId=12505WS-08 New DesignItemId=12505WS-10
+Change Component Footprint: Designator=J3 Old Footprint=12505WS-8P New Footprint=12505WS-10P
+Change Component Comment : Designator=J3 Old Comment=12505WS-08 New Comment=12505WS-10
+Added Component: Designator=J10(12505WS-9P)
+Added Component: Designator=J13(TW-C100P/PoE)
+Added Pin To Net: NetName=GND Pin=J3-11
+Added Pin To Net: NetName=GND Pin=J3-12
+Added Pin To Net: NetName=SD0_DATA2 Pin=J10-1
+Added Pin To Net: NetName=SD0_DATA3 Pin=J10-2
+Added Pin To Net: NetName=SD0_CMD Pin=J10-3
+Added Pin To Net: NetName=+3.3V Pin=J10-4
+Added Pin To Net: NetName=SD0_CLK Pin=J10-5
+Added Pin To Net: NetName=GND Pin=J10-6
+Added Pin To Net: NetName=SD0_DATA0 Pin=J10-7
+Added Pin To Net: NetName=SD0_DATA1 Pin=J10-8
+Added Pin To Net: NetName=SD0_INS Pin=J10-9
+Added Pin To Net: NetName=GND Pin=J10-10
+Added Pin To Net: NetName=GND Pin=J10-11
+Added Pin To Net: NetName=POE_LINE_1_2+ Pin=J13-1
+Added Pin To Net: NetName=POE_LINE_3_6- Pin=J13-2
+Added Pin To Net: NetName=POE_LINE_4_5+ Pin=J13-3
+Added Pin To Net: NetName=POE_LINE_7_8- Pin=J13-4
+Added Pin To Net: NetName=GND Pin=J13-7
+Added Pin To Net: NetName=+12V_POE Pin=J13-8

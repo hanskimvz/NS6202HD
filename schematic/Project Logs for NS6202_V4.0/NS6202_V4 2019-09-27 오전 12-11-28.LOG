@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=MVDD Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=+3.3V Pin=FB7-1
+Removed Pin From Net: NetName=MVDD Pin=FB7-2
+Removed Pin From Net: NetName=ZOOM_AP Pin=FB9-2
+Removed Pin From Net: NetName=ZOOM_AN Pin=FB10-2
+Removed Pin From Net: NetName=ZOOM_BP Pin=FB11-2
+Removed Pin From Net: NetName=ZOOM_BN Pin=FB12-2
+Removed Pin From Net: NetName=FOCUS_AP Pin=FB13-2
+Removed Pin From Net: NetName=FOCUS_AN Pin=FB14-2
+Removed Pin From Net: NetName=FOCUS_BP Pin=FB15-2
+Removed Pin From Net: NetName=FOCUS_BN Pin=FB16-2
+Removed Pin From Net: NetName=GND Pin=J10-4
+Removed Pin From Net: NetName=GND Pin=J10-5
+Removed Pin From Net: NetName=GND Pin=J10-6
+Removed Pin From Net: NetName=ZOOM_BP Pin=J12-7
+Removed Pin From Net: NetName=ZOOM_BN Pin=J12-8
+Removed Pin From Net: NetName=LENC_IRIS_PWM1 Pin=R21-1
+Removed Pin From Net: NetName=LENC_IRIS_PWM2 Pin=R53-1
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U7-2
+Removed Pin From Net: NetName=+12V Pin=U7-3
+Removed Pin From Net: NetName=GND Pin=U7-4
+Change Component Footprint: Designator=C27 Old Footprint=CS-1005 New Footprint=CS-1608
+Change Component Footprint: Designator=C38 Old Footprint=CS-1005 New Footprint=CS-1608
+Added Component: Designator=C39(CS-2012)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MVDD Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=MVDD Pin=FB6-1
+Added Pin To Net: NetName=+3.3V Pin=FB6-2
+Added Pin To Net: NetName=ZOOM_BN Pin=J12-7
+Added Pin To Net: NetName=ZOOM_BP Pin=J12-8
+Added Pin To Net: NetName=ZOOM_AP Pin=U4-4
+Added Pin To Net: NetName=ZOOM_AN Pin=U4-6
+Added Pin To Net: NetName=ZOOM_BN Pin=U4-7
+Added Pin To Net: NetName=ZOOM_BP Pin=U4-9
+Added Pin To Net: NetName=FOCUS_AP Pin=U6-4
+Added Pin To Net: NetName=FOCUS_AN Pin=U6-6
+Added Pin To Net: NetName=FOCUS_BN Pin=U6-7
+Added Pin To Net: NetName=FOCUS_BP Pin=U6-9
+Change Net Name : Old Net Name=_DRV_C0 New Net Name=N17383042
+Change Net Name : Old Net Name=_DRV_C1 New Net Name=N17383848
+Change Net Name : Old Net Name=_DRV_C2 New Net Name=N17383772
+Change Net Name : Old Net Name=_DRV_C3 New Net Name=N17383775

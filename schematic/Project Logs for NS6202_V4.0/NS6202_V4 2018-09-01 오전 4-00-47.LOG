@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=N17346698 Pin=D1-1
+Removed Pin From Net: NetName=+12V Pin=D1-2
+Change Component DesignItemId : Designator=R8 Old DesignItemId=0/NI New DesignItemId=4.7K
+Change Component DesignItemId : Designator=R7 Old DesignItemId=1K New DesignItemId=5.6K
+Change Component DesignItemId : Designator=D1 Old DesignItemId=RB051L-40 New DesignItemId=MB6S
+Change Component Footprint: Designator=D1 Old Footprint=SOD-106 New Footprint=MB2S
+Change Component Comment : Designator=R8 Old Comment=0/NI New Comment=4.7K
+Change Component Comment : Designator=R7 Old Comment=1K New Comment=5.6K
+Change Component Comment : Designator=D1 Old Comment=RB051L-40 New Comment=MB6S
+Added Pin To Net: NetName=+12V_POE Pin=D1-1
+Added Pin To Net: NetName=N17346698 Pin=D1-2
+Added Pin To Net: NetName=+12V Pin=D1-3
+Added Pin To Net: NetName=+12V Pin=R7-2

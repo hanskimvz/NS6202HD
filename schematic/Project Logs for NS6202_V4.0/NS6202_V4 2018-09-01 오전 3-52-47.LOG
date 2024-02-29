@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+5.0V Pin=C38-1
+Removed Pin From Net: NetName=GND Pin=C38-2
+Removed Pin From Net: NetName=+5.0V Pin=FB7-1
+Removed Pin From Net: NetName=N17355278 Pin=FB7-2
+Removed Pin From Net: NetName=+5.0V Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=+12V Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U6-4
+Change Component DesignItemId : Designator=FB6 Old DesignItemId=60/NI New DesignItemId=60
+Change Component Comment : Designator=FB6 Old Comment=60/NI New Comment=60

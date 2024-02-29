@@ -1,0 +1,378 @@
+(PCB NS6202_V4.0_SD
+ (description
+  (timeStamp "2020 05 05 23 48 11")
+  (program "CAPTURE.EXE" (Version "16.3.0.p002"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "CONNECTOR")
+  (date "Wednesday, May 06, 2020")
+  (document "NS6202HD")
+  (revision "2.0")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component "M HOLE PLATED_4"
+   (place MH1
+    (property 
+     ("PCB Footprint" "VA-2.2")
+     (timestamp 0106AC83)
+     ("Source Package" "M HOLE PLATED_4")
+     (Value 4.04pi)
+     (Description "Machenical Hole")))
+   (place MH2
+    (property 
+     ("PCB Footprint" "VA-2.2")
+     (timestamp 0106AFAE)
+     ("Source Package" "M HOLE PLATED_4")
+     (Value 4.04pi)
+     (Description "Machenical Hole"))))
+  (component "CAP NP"
+   (place BC1
+    (property 
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-2012")
+     (timestamp 0108E84D)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 22uF)))
+   (place C1
+    (property 
+     (Size 1608)
+     (Family CAPACITOR)
+     ("PCB Footprint" "CS-1005")
+     (timestamp 01083231)
+     (Type Ceramic)
+     ("Source Package" "CAP NP")
+     (Value 1nF))))
+  (component "CON 40P_2"
+   (place J1
+    (property 
+     ("PCB Footprint" "05005HS-10P")
+     (timestamp 0108EA45)
+     ("Source Package" "CON 40P_2")
+     (Value "05005HS-40"))))
+  (component "R-PACK"
+   (place RP1
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RP-4_1005")
+     (timestamp 0108E813)
+     ("Source Package" "R-PACK")
+     (Value 10K)))
+   (place RP2
+    (property 
+     (Family RESISTOR)
+     ("PCB Footprint" "RP-4_1005")
+     (timestamp 0108E7E7)
+     ("Source Package" "R-PACK")
+     (Value 10K))))
+  (component INDUCTOR
+   (place FB1
+    (property 
+     (Family INDUCTOR)
+     ("PCB Footprint" "LS-1608")
+     (timestamp 0108E7F0)
+     ("Source Package" INDUCTOR)
+     (Value 60)
+     ("ERP NAME" "BLM21PG221SN1D-220 BEAD")
+     (ERP "M12-02-0006"))))
+  (component "SW PB_0"
+   (place SW1
+    (property 
+     (Family SWITCH)
+     ("PCB Footprint" "SWS-CTT-1131U")
+     (timestamp 0108B5BB)
+     ("Source Package" "SW PB_0")
+     (Value "SW PB")
+     (Label <Label>))))
+  (component "CON u-SD_0"
+   (place J2
+    (property 
+     ("PCB Footprint" "CON_u-SD")
+     (timestamp 0108E804)
+     ("Source Package" "CON u-SD_0")
+     (Value "CON_u-SD")))))
+ (library
+  (image "CAP NP"
+   (property 
+    (sourcelib E:\\H_ACT\\PROJECT\\HSBEST.OLB)
+    (Size 1608)
+    (Family CAPACITOR))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image "M HOLE PLATED_4"
+   (property 
+    (sourcelib G:\\WORK\\PRODUCT\\HW\\STAND_ALONE\\IPC1100\\IPC1100_V1.20_SCH.DSN))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4))))
+  (image "CON 40P_2"
+   (property 
+    (sourcelib D:\\H_BAIDU\\PROJECT\\NS6202_IPN\\SCHEMATIC\\NS6202_V4.0.DSN))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4)))
+   (pin 999 M2
+    (property 
+     (pinname M2)
+     (pintype 4)))
+   (pin 999 M1
+    (property 
+     (pinname M1)
+     (pintype 4)))
+   (pin 999 M3
+    (property 
+     (pinname M3)
+     (pintype 4)))
+   (pin 999 M4
+    (property 
+     (pinname M4)
+     (pintype 4))))
+  (image "CON u-SD_0"
+   (property 
+    (sourcelib D:\\H_BAIDU\\PROJECT\\IPN_IMA\\SCHEMATIC\\IMA1102_V1.00.DSN))
+   (pin 999 1
+    (property 
+     (pinname DAT2)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname CD/DAT3)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname CMD)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname VDD)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname CLK)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname Vss2)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname DAT0)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname DAT1)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname G1)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname G2)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname G3)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname G4)
+     (pintype 4)))
+   (pin 999 CD
+    (property 
+     (pinname CD)
+     (pintype 4))))
+  (image "R-PACK"
+   (property 
+    (sourcelib E:\\H_ACT\\PROJECT\\HSBEST.OLB)
+    (Family RESISTOR)
+    (Size 1608x4))
+   (pin 999 1
+    (property 
+     (pinname R1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname R2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname R3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname R4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname R5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname R6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname R7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname R8)
+     (pintype 4))))
+  (image INDUCTOR
+   (property 
+    (sourcelib E:\\TEMP\\PROJECT\\HSBEST.OLB)
+    (Family INDUCTOR))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image "SW PB_0"
+   (property 
+    (sourcelib D:\\H_BAIDU\\PROJECT\\IPN_IMA\\SCHEMATIC\\IMA1102_V1.00.DSN)
+    (Family SWITCH))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))))
+ (network
+  (net +3.3V
+    (property 
+     (nettype S)
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     RP1-2 RP1-4 RP1-6 RP1-8 FB1-1 RP2-2 RP2-4 RP2-6 RP2-8
+     J1-4))
+  (net FD_SW
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     C1-1 SW1-2 J1-10))
+  (net GND
+    (property 
+     (nettype S)
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     C1-2 MH1-1 MH2-1 SW1-1 J2-6 J2-9 J2-10 J2-11 J2-12
+     BC1-1 J1-6 J1-M2 J1-M1 J1-M3 J1-M4))
+  (net N17360855
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-4 FB1-2 BC1-2))
+  (net SD0_CLK
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-5 RP2-1 J1-5))
+  (net SD0_CMD
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-3 RP1-5 J1-3))
+  (net SD0_DATA0
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-7 RP2-3 J1-7))
+  (net SD0_DATA1
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-8 RP2-5 J1-8))
+  (net SD0_DATA2
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-1 RP1-7 J1-1))
+  (net SD0_DATA3
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-2 RP1-3 J1-2))
+  (net SD0_INS
+    (property 
+     (Color Default)
+     ("Line Style" Default)
+     ("Line Width" Default))
+   (pins
+     J2-CD RP2-7 J1-9)))
+)

@@ -1,0 +1,11 @@
+Added Component: Designator=LF1(LFA0805)
+Added Pin To Net: NetName=N17401413 Pin=LF1-1
+Added Pin To Net: NetName=TPRXP_CON Pin=LF1-2
+Added Pin To Net: NetName=N17401416 Pin=LF1-3
+Added Pin To Net: NetName=TPRXN_CON Pin=LF1-4
+Added Pin To Net: NetName=N17401419 Pin=LF1-5
+Added Pin To Net: NetName=TPTXP_CON Pin=LF1-6
+Added Pin To Net: NetName=N17401422 Pin=LF1-7
+Added Pin To Net: NetName=TPTXN_CON Pin=LF1-8
+Added Pin To Net: NetName=GND Pin=LF1-9
+Added Pin To Net: NetName=GND Pin=LF1-10

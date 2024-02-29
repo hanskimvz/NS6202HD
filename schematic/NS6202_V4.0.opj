@@ -1,0 +1,103 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\ns6202_v4.0.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "8")
+    (OTHER_Part_Value "{Value}")
+    (OTHER_Netlist_File "NS6202_V4.0.NET")
+    (OTHER_Netlist_File2 "NS6202_V4.0.CMP")
+    (OTHER_View_Output "FALSE")
+    (OTHER_View_Output2 "FALSE")
+    (OTHER_Formatter "orprotel2.dll")
+    (OTHER_PCB_Footprint "{PCB Footprint}")
+    (OTHER_Switch0 "FALSE")
+    (OTHER_Switch1 "FALSE")
+    (OTHER_Switch2 "FALSE")
+    (OTHER_Switch3 "FALSE")
+    (OTHER_Switch4 "FALSE")
+    (OTHER_Switch5 "FALSE")
+    (OTHER_Switch6 "FALSE")
+    (NoModify))
+  (Folder "Outputs"
+    (File ".\ns6202_v4.0.net"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (TP
+      (FullPartName "TP.Normal")
+      (LibraryName "D:\H_BAIDU\PROJECT\HSBEST.OLB")
+      (DeviceIndex "0"))
+    (MB2S_bridge
+      (FullPartName "MB2S_bridge.Normal")
+      (LibraryName "E:\TEMP\PROJECT\HSBEST.OLB")
+      (DeviceIndex "0")))
+  (ISPCBBASICLICENSE "false")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\ns6202_v4.0.dsn")
+      (Path "Design Resources" ".\ns6202_v4.0.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\ns6202_v4.0.dsn" "SCHEMATIC1" "5_LENC"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 1115 0 671"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 25 1667 25 535")
+        (Scroll "-351 0")
+        (Zoom "54")
+        (Occurrence "/"))
+      (Path "D:\H_BAIDU\PROJECT\NS6202_IPN\SCHEMATIC\NS6202_V4.0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "1_CONNECTOR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 50 1692 50 560")
+        (Scroll "-281 0")
+        (Zoom "63")
+        (Occurrence "/"))
+      (Path "D:\H_BAIDU\PROJECT\NS6202_IPN\SCHEMATIC\NS6202_V4.0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "2_DIDO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 75 1717 75 585")
+        (Scroll "-276 0")
+        (Zoom "63")
+        (Occurrence "/"))
+      (Path "D:\H_BAIDU\PROJECT\NS6202_IPN\SCHEMATIC\NS6202_V4.0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "3_AUDIO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 100 1746 100 614")
+        (Scroll "-278 0")
+        (Zoom "63")
+        (Occurrence "/"))
+      (Path "D:\H_BAIDU\PROJECT\NS6202_IPN\SCHEMATIC\NS6202_V4.0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "4_POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1646 0 514")
+        (Scroll "-278 0")
+        (Zoom "63")
+        (Occurrence "/"))
+      (Path "D:\H_BAIDU\PROJECT\NS6202_IPN\SCHEMATIC\NS6202_V4.0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "5_LENC")))
+  (MPSSessionName "H"))

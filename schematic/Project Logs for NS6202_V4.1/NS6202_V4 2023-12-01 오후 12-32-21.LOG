@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=N17371906 Pin=J3-1
+Removed Pin From Net: NetName=TPRXP_CON Pin=J3-3
+Removed Pin From Net: NetName=TPRXN_CON Pin=J3-4
+Removed Pin From Net: NetName=TPTXP_CON Pin=J3-5
+Removed Pin From Net: NetName=TPTXN_CON Pin=J3-6
+Removed Pin From Net: NetName=+3.3V Pin=J4-1
+Removed Pin From Net: NetName=+3.3V Pin=J4-2
+Removed Pin From Net: NetName=+3.3V Pin=J4-3
+Removed Pin From Net: NetName=+3.3V Pin=J4-30
+Removed Pin From Net: NetName=+3.3V Pin=J4-31
+Removed Pin From Net: NetName=+12V Pin=J5-1
+Change Component DesignItemId : Designator=R37 Old DesignItemId=9.1_F New DesignItemId=4
+Change Component DesignItemId : Designator=R40 Old DesignItemId=9.1_F New DesignItemId=4
+Change Component DesignItemId : Designator=R45 Old DesignItemId=9.1_F New DesignItemId=4
+Change Component DesignItemId : Designator=R51 Old DesignItemId=9.1_F New DesignItemId=4
+Change Component Comment : Designator=R37 Old Comment=9.1_F New Comment=4
+Change Component Comment : Designator=R40 Old Comment=9.1_F New Comment=4
+Change Component Comment : Designator=R45 Old Comment=9.1_F New Comment=4
+Change Component Comment : Designator=R51 Old Comment=9.1_F New Comment=4
+Added Component: Designator=BC11(CS-1005)
+Added Component: Designator=C29(CS-1608)
+Added Component: Designator=C30(CS-1608)
+Added Component: Designator=C31(CS-1608)
+Added Component: Designator=C32(CS-1005)
+Added Component: Designator=FB5(LS-2012)
+Added Component: Designator=FB7(LS-1608)
+Added Pin To Net: NetName=GND Pin=BC11-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=N17371906 Pin=C31-2
+Added Pin To Net: NetName=+12V Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=+3.3V Pin=FB5-2
+Added Pin To Net: NetName=+12V Pin=FB7-1
+Change Net Name : Old Net Name=N173253942 New Net Name=N17404961
+Added Pin To Net: NetName=+3.3V_VID Pin=FB5-1
+Added Pin To Net: NetName=+3.3V_VID Pin=J4-1
+Added Pin To Net: NetName=+3.3V_VID Pin=J4-2
+Added Pin To Net: NetName=+3.3V_VID Pin=J4-3
+Added Pin To Net: NetName=+3.3V_VID Pin=J4-30
+Added Pin To Net: NetName=+3.3V_VID Pin=J4-31
+Added Net: Name=+3.3V_VID
+Added Pin To Net: NetName=N17401413 Pin=J3-3
+Added Net: Name=N17401413
+Added Pin To Net: NetName=N17401416 Pin=J3-4
+Added Net: Name=N17401416
+Added Pin To Net: NetName=N17401419 Pin=J3-5
+Added Net: Name=N17401419
+Added Pin To Net: NetName=N17401422 Pin=J3-6
+Added Net: Name=N17401422
+Added Pin To Net: NetName=N17402870 Pin=C29-2
+Added Pin To Net: NetName=N17402870 Pin=C30-2
+Added Pin To Net: NetName=N17402870 Pin=J3-1
+Added Net: Name=N17402870
+Added Pin To Net: NetName=N17403459 Pin=BC11-2
+Added Pin To Net: NetName=N17403459 Pin=FB7-2
+Added Pin To Net: NetName=N17403459 Pin=J5-1
+Added Net: Name=N17403459

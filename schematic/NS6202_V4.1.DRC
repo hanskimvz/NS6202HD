@@ -1,0 +1,16 @@
+Date and Time : 12/01/23 12:30:24
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections LENC_IRIS_PWM1 
+                    SCHEMATIC1, 1_CONNECTOR  (180.34, 71.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections LENC_IRIS_PWM2 
+                    SCHEMATIC1, 1_CONNECTOR  (208.28, 68.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections DAC_OUT 
+                    SCHEMATIC1, 1_CONNECTOR  (91.44, 81.28) 
+
+Checking For Unconnected Bus Nets

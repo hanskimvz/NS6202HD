@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=BC39-1
+Removed Pin From Net: NetName=N17349502 Pin=BC39-2
+Change Component DesignItemId : Designator=J12 Old DesignItemId=12505WS-02 New DesignItemId=12512WS-02//NI
+Change Component Comment : Designator=J12 Old Comment=12505WS-02 New Comment=12512WS-02//NI
+Added Component: Designator=BC38(CS-2012)
+Added Pin To Net: NetName=GND Pin=BC38-1
+Added Pin To Net: NetName=N17349502 Pin=BC38-2
